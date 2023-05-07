@@ -15,7 +15,7 @@ gcc lex.yy.c y.tab.c -w
 ./a.out
 ```
 
-or simply run this the Make file command
+or simply run the Make file command
 
 ```
 make all
